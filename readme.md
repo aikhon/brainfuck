@@ -28,14 +28,10 @@ Being at work, doing completely irrelevant to me responsibilities is the worst e
 
 ## Current progress
 
-### Being acquainted to JavaScript.
+### Getting started with Go (golang).
 
-I have been involved to a project that has multiple JavaScript builds, but I have never dared myself to touch it. Nevertheless, here I am, doing a comeback GitHub repository in JavaScript.
+That is a new thing to me. I have never built anything in any language except for Python and JavaScript. I have a friend that has been working on Go, and recently I asked him about the language. No cons were heard by me, therefore I decided to proceed with learning this language.
 
-### Why JavaScript?
+### Purpose.
 
-Decided to take part in frontend engineering that I have been avoiding so far. Of course I have ran and even deployed a few React projects in my life, and this time I am going to properly dive in to this field.
-
-### Past issues.
-
-Before I would never get to understand what a callback is, how DOM performs, and why JavaScript is so stubborn. Doing pretty nice for now, hope to keep going in the same flow.
+I've noticed the mainstream among the kazakhstani companies writing their microservices in Go. I was wondering if I could learn Go and begin working with this new stack. So, here we are.
